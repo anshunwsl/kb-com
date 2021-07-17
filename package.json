@@ -1,0 +1,23 @@
+{
+  "name": "kb-com",
+  "version": "1.0.0",
+  "description": "test001.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshunwsl/kb-com.git"
+  },
+  "keywords": [
+    "comon",
+    "vue"
+  ],
+  "author": "anshunwsl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshunwsl/kb-com/issues"
+  },
+  "homepage": "https://github.com/anshunwsl/kb-com#readme"
+}
